@@ -1,0 +1,7 @@
+    Sí, el testing sigue siendo absolutamente necesario, incluso si 
+usas IA para ayudarte a escribir o revisar código.
+    La IA mejora y acelera, pero no reemplaza completamente la verificación 
+formal y controlada del funcionamiento de tu software.
+
+    La IA es como un copiloto. Los tests son el cinturón de seguridad.
+    Usar ambos juntos es lo ideal para un desarrollo moderno, ágil y confiable.

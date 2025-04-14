@@ -10,4 +10,4 @@ class Persona:
         return self.edad >= 18
 
 persona1 = Persona("Ana", 25)
-print(persona1.presentarse())
+persona1.presentarse()

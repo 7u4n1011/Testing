@@ -1,0 +1,16 @@
+Depender de una IA para revisar código tiene ventajas muy útiles, pero también 
+desventajas importantes que conviene tener en cuenta.
+
+Ventajas:
+    1. Ahorro de tiempo.
+    2. Soporte 24/7.
+    3. Detección temprana de errores.
+    4. Mejora de aprendizaje.
+    5. Compatibilidad con múltiples lenguajes.
+
+Desventajas:
+    1. Falsos positivos o negativos.
+    2. Dependencia excesiva.
+    3. Falta de entendimiento profundo del contexto.
+    4. Problemas con código no estándar o creativo.
+    5. Privacidad y seguridad.

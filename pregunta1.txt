@@ -1,0 +1,7 @@
+Las herramientas de IA que podrian detectar estos errores son:
+    1. GitHub Copilot.
+    2. ChatGPT.
+    3. DeepCode.
+    4. SonarLint / SonarQube
+    5. Codex (de OpenAI, usado en Copilot).
+    6. Kite (ya descontinuado, pero fue muy usado).
